@@ -2,5 +2,5 @@ Ahora el sueldo de Elena depende también de su situación frente al sindicato, 
 
 La situación sindical depende de la elección personal de Elena, y hay tres posibilidades:
 * **Porcentual:** descuenta un 3% del neto.
-* **Comprometido:** descuenta un 1% del neto más $1500 fijos.
-* **No Sindicalizado:** no descuenta nada.
+* **Aporta al fondo de lucha:** descuenta un 1% del neto más $1500 fijos.
+* **No sindicalizado:** no descuenta nada.

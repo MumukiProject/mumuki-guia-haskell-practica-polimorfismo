@@ -4,6 +4,6 @@ locale: es
 type: learning
 beta: false
 teacher_info: ''
-language: haskell
+language: ruby
 id_format: "%05d"
 order: []

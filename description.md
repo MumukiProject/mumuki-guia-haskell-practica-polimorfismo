@@ -1,0 +1,3 @@
+Los ejercicios están pensados para resolverse en orden. Esto responde por un lado a una cuestión pedagógica, pero también a una práctica, ya que algunos requieren de piezas de código realizadas anteriormente.
+
+Algunos ejercicios están basados en la guía "Relaciones entre objetos, self y Polimorfismo", elaborada por Leonardo Gassman y Carlos Lombardi para la asignatura Programación con Objetos 1 de la Universidad Nacional de Quilmes.

@@ -1,0 +1,1 @@
+Para poder saber si una casa es derrochona, vas a necesitar guardar los montos de las compras que se hagan.

@@ -5,5 +5,5 @@ Ante cada compra que se realiza en la casa, se hace el retiro correspondiente de
 
 Además, se espera saber si la casa:
 
-* es **derrochona**: si la suma de todas las compras que se hicieron supera los $15000.
-* es **lujosa**: si la casa puede afrontar una compra de $40000.
+* es **derrochona**: si la suma de todas las compras que se hicieron supera los $15.000.
+* es **lujosa**: si la casa puede afrontar una compra de $40.000.

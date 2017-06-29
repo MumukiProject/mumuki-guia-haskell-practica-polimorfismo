@@ -1,4 +1,4 @@
-Finalmente, el sueldo de pepe depende también de un extra que le puede otorgar un bono basado en el presentismo: `sueldo = neto - descuento por sindicato + extra por presentismo`.
+Finalmente, el sueldo de Elena depende también de un extra que le puede otorgar un bono basado en el presentismo: `sueldo = neto - descuento por sindicato + extra por presentismo`.
 
 Hay tres bonos por presentismo posibles:
 

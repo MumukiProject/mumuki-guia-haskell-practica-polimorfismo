@@ -7,3 +7,5 @@ Además, se espera saber si la casa:
 
 * es **derrochona**: si la suma de todas las compras que se hicieron supera los $15.000.
 * es **lujosa**: si la casa puede afrontar una compra de $40.000.
+
+> Modelá la casa con sus mensajes correspondientes, usando como cuenta inicial la de Pepe, pero dejando la posibilidad de modificarla posteriormente. :house:

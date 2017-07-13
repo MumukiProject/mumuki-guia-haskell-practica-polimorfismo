@@ -12,7 +12,7 @@ Si bien todas las cuentas cumplen con esas responsabilidades, cada cuenta lo rea
 
 **La cuenta de Pepe** es una cuenta en pesos normal: el saldo incrementa con los depósitos y disminuye con las extracciones en exactamente la misma cantidad de pesos que indican los parámetros.
 
-**La cuenta de Julián** está embargada, esto significa que de cada depósito solo el 80% incrementa el saldo, el 20% restante se descarta. Por ejemplo, si Julián tiene $100 de saldo, y deposita otros $100, el saldo es $180. Además, cada vez vez que extrae
+**La cuenta de Julián** está embargada, esto significa que de cada depósito solo el 80% incrementa el saldo, el 20% restante se descarta. Por ejemplo, si Julián tiene $100 de saldo, y deposita otros $100, el saldo es $180. Además, cada vez que extrae
 se le descuenta al saldo $5 adicionales en concepto de gastos administrativos. Este gasto es aplicado solo en aquellos casos en que el gasto no deje la cuenta con saldo negativo.
 
 **La cuenta de la mamá** de ambos está dolarizada: mantiene internamente un saldo en dólares. Se usa igual que una cuenta en pesos (se extrae y se depositan pesos), pero en cada operación hay que convertir la moneda usando los precios de compra y de venta según corresponda. Los valores iniciales son $15.10 para la venta y $14.70 para la compra. Obviamente, estos valores pueden cambiar con el tiempo.

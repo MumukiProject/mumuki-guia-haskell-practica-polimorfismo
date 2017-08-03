@@ -5,7 +5,7 @@ En esta primer parte, el sueldo de Elena sólo se compone por su sueldo neto: `s
 El sueldo neto depende de su categoría y hay dos categorías posibles: 
 
 * **los gerentes**, que ganan $15.000;
-* **y los cadetes**, que ganan $20.000. 
+* y **los cadetes**, que ganan $20.000. 
 
 Elena tiene solo una de estas categorías, la cual debe poder modificarse en cualquier momento.
 

@@ -5,3 +5,5 @@ La situación sindical depende de la elección personal de Elena, y hay tres pos
 * **Porcentual:** descuenta un 3% del neto.
 * **Aporta al fondo de lucha:** descuenta un 1% del neto más $1500 fijos.
 * **No sindicalizado:** no descuenta nada.
+
+> Incorporá al modelo de Elena la posibilidad de modificar su situación sindical, realizando los descuentos correspondientes en el sueldo.
